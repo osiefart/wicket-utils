@@ -1,0 +1,13 @@
+.project
+.tpignore
+.classpath
+.settings/
+target/
+.DS_Store
+.checkstyle
+.idea
+*.ipr
+*.iws
+*.iml
+rebel.xml
+atlassian-ide-plugin.xml

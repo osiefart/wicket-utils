@@ -1,4 +1,4 @@
-wickito
+wicket-utils
 =======
 
-wicket tests with spring and mockito 
+wicket utils
